@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/home/stosgr/.config/rofi'
+let g:netrw_dirhist_2='/home/stosgr/.config'
+let g:netrw_dirhist_3='/home/stosgr/.config/compton'
+let g:netrw_dirhist_4='/home/stosgr/workspace/composetest'
+let g:netrw_dirhist_5='/home/stosgr/backup-admin-20170908-121513-904Z/compose'
+let g:netrw_dirhist_6='/home/stosgr/backup-admin-20170908-121513-904Z/compose/code'
+let g:netrw_dirhist_7='/home/stosgr/workspace/centos'
